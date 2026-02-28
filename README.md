@@ -28,19 +28,6 @@ I'm particularly proud of my work on `quick-oxibooks`, a Rust crate for seamless
 - **[Exotik850/quick-oxibooks](https://github.com/Exotik850/quick-oxibooks)**: A robust and easy-to-use library for interacting with the QuickBooks API in Rust.
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exotik850&show_icons=true&theme=tokyonight" alt="Exotik850's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exotik850&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<!-- ### 📫 Connect with me -->
-
-<!-- Add your social links here! -->
 <!-- 🌐 [Portfolio](your-website.com) -->
 <!-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) -->
 <!-- 🐦 [Twitter/X](https://twitter.com/your-handle) -->
