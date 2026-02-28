@@ -28,8 +28,3 @@ I'm particularly proud of my work on `quick-oxibooks`, a Rust crate for seamless
 - **[Exotik850/quick-oxibooks](https://github.com/Exotik850/quick-oxibooks)**: A robust and easy-to-use library for interacting with the QuickBooks API in Rust.
 
 ---
-<!-- 🌐 [Portfolio](your-website.com) -->
-<!-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) -->
-<!-- 🐦 [Twitter/X](https://twitter.com/your-handle) -->
-
----
