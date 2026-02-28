@@ -1,6 +1,6 @@
 ### Hi there, I'm Exotik850 👋
 
-I'm a junior Computer Science student with a passion for graphics programming, data-oriented design, and writing elegant, efficient code. Welcome to my corner of GitHub!
+I'm a Senior Computer Science student with a passion for graphics programming, data-oriented design, and writing elegant, efficient code. Welcome to my corner of GitHub!
 
 ---
 
